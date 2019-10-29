@@ -1,2 +1,2 @@
 # hello-world
-My first try
+Mein erster Versuch
